@@ -20,4 +20,4 @@ This notebook explores stock market trends using Python, pandas and yfinance. It
 - Personal Interpretation of the results
 
 ## 😎 View the Notebook:
-[Stock Market Analysis Notebook](Stock Market Risk Analysis - Var, Monte Carlo, Simulation.ipynp)
+[Stock Market Analysis Notebook](stock_market_analysis.ipynb)
